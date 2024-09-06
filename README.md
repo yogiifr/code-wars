@@ -4,4 +4,4 @@
 
 **Tech used:** <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=3c7f5d&style=plastic&logo=python"/>
 
-Everyday, the last thing I do before going to bed is solve a Codewar!
+Everyday, the last thing I do before going to bed is solve a Codewars!
